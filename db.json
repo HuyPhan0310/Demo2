@@ -1,0 +1,21 @@
+{
+  "product": {
+    "data": [
+      {
+        "name": "Iphone 16 Pro Max",
+        "price": "34.990.000 đ",
+        "image": "img/product/mobile/iphone/ip-16-promax.jpg"
+      },
+      {
+        "name": "Iphone 16 Pro",
+        "price": "28.990.000 đ",
+        "image": "img/product/mobile/iphone/ip-16-pro.jpg"
+      },
+      {
+        "name": "Iphone 16 Plus",
+        "price": "25.990.000 đ",
+        "image": "img/product/mobile/iphone/ip-16-plus.jpg"
+      }
+    ]
+  }
+}
